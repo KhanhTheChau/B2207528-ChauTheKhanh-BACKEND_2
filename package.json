@@ -1,0 +1,30 @@
+{
+  "name": "contactbook-backend",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/KhanhTheChau/B2207528-ChauTheKhanh-BACKEND_2#readme",
+  "bugs": {
+    "url": "https://github.com/KhanhTheChau/B2207528-ChauTheKhanh-BACKEND_2/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KhanhTheChau/B2207528-ChauTheKhanh-BACKEND_2.git"
+  },
+  "license": "ISC",
+  "author": "Chau The Khanh",
+  "type": "commonjs",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.21.2"
+  },
+  "devDependencies": {
+    "eslint": "^9.21.0",
+    "eslint-config-prettier": "^10.0.1",
+    "nodemon": "^3.1.9",
+    "prettier": "^3.5.2"
+  }
+}
